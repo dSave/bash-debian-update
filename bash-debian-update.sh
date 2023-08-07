@@ -25,7 +25,7 @@ sudo apt autoremove -y
 
 
 echo "
-sudo apt updateflatpak update -y:
+flatpak update -y:
 "
 flatpak update -y
 
