@@ -23,6 +23,8 @@ sudo apt autoremove -y:
 "
 sudo apt autoremove -y
 
+#echo "sudo apt update --fix-missing:"
+#sudo apt update --fix-missing
 
 echo "
 flatpak update -y:
